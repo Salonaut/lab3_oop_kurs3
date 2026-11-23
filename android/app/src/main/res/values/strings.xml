@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Sea Battle</string>
+    <string name="your_fleet">Your fleet</string>
+    <string name="enemy_waters">Enemy waters — tap to fire</string>
+    <string name="new_game">New game</string>
+    <string name="retry_ai">Retry computer move</string>
+    <string name="your_turn">Your turn. Tap a cell on the enemy board.</string>
+    <string name="player_hit">Hit! Computer is thinking…</string>
+    <string name="player_miss">Miss. Computer is thinking…</string>
+    <string name="computer_hit">Computer hit your ship at %1$s.</string>
+    <string name="computer_miss">Computer missed at %1$s. Your turn.</string>
+    <string name="won">You won! All enemy ships are sunk.</string>
+    <string name="lost">Computer won! All your ships are sunk.</string>
+    <string name="ai_error">Cannot connect to AI service. Start Python server, then retry.</string>
+    <string name="legend">■ ship · ✕ hit · • miss</string>
+</resources>

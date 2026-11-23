@@ -1,0 +1,18 @@
+plugins { id 'com.android.application' }
+
+android {
+    namespace 'ua.edu.seabattle'
+    compileSdk 35
+
+    defaultConfig {
+        applicationId 'ua.edu.seabattle'
+        minSdk 24
+        targetSdk 28 // cleartext HTTP for local development only; see README
+        versionCode 1
+        versionName '1.0'
+    }
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_17
+        targetCompatibility JavaVersion.VERSION_17
+    }
+}

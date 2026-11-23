@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Морський бій</string>
+    <string name="your_fleet">Ваш флот</string>
+    <string name="enemy_waters">Поле комп’ютера — натисніть для пострілу</string>
+    <string name="new_game">Нова гра</string>
+    <string name="retry_ai">Повторити хід комп’ютера</string>
+    <string name="your_turn">Ваш хід. Натисніть на клітинку поля суперника.</string>
+    <string name="player_hit">Влучання! Комп’ютер обирає хід…</string>
+    <string name="player_miss">Промах. Комп’ютер обирає хід…</string>
+    <string name="computer_hit">Комп’ютер влучив у %1$s.</string>
+    <string name="computer_miss">Комп’ютер промахнувся на %1$s. Ваш хід.</string>
+    <string name="won">Ви перемогли! Усі кораблі суперника потоплено.</string>
+    <string name="lost">Комп’ютер переміг! Усі ваші кораблі потоплено.</string>
+    <string name="ai_error">Немає зв’язку з ШІ. Запустіть Python-сервер і повторіть хід.</string>
+    <string name="legend">■ корабель · ✕ влучання · • промах</string>
+</resources>
